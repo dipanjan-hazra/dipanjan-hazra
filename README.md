@@ -2,7 +2,8 @@
 - 👀 I’m interested in project on c
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on c project
-- 📫 How to reach me ...
+- 📫 Reach me by inbox
+- 
 
 <!---
 dipanjan-hazra/dipanjan-hazra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
