@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipanjan-hazra
-- 👀 I’m interested in project on c
+- 👀 I’m interested in project on  fronted devolpoment
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on c project
+- 💞️ I’m looking to collaborate on frontend devolopment project
 - 📫 Reach me by inbox
 - 
 
